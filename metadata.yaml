@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37077'
     url: http://www.gutenberg.org/2009/agents/37077
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34546#Additions-to-the-List-of-the-Birds-of-Louisiana
 gutenberg_bookshelf:
 - Animals-Wild-Birds
 - Animal
